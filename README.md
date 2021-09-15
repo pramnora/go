@@ -13,6 +13,14 @@ Go programming code
 >> fmt.Println("Hello, world!")  
 >>}  
 
+### Program: Example 2: Hello, world!
+
+>>package main  
+>>import "fmt"  
+>>main(){  
+>> fmt.Println(1+1)    
+>>}  
+
 
 -----
 
