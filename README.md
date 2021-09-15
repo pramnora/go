@@ -127,6 +127,32 @@ https://github.com/GoesToEleven/GolangTraining/blob/master/01_getting-started/01
 
 ### YouTube  
 
+General search results listing for: Go language tutorial  
+https://www.youtube.com/results?search_query=go+language+tutorial  
+
+Learn Go in 12 Minutes  
+https://www.youtube.com/watch?v=C8LgvuEBraI  
+
+Go / Golang Crash Course (Traversy Media)  
+https://www.youtube.com/watch?v=SqrbIlUwR0U  
+
+Golang in under an hour (2021)  
+https://www.youtube.com/watch?v=N0fIANJkwic  
+
+Go Tutorial Basic | Golang  
+https://www.youtube.com/watch?v=ty49_v1tV44  
+
+The Go Language: What Makes it Different? - Jay McGavren  
+https://www.youtube.com/watch?v=FEFXjRoac_U  
+
+
+
+
+
+
+
+
+
 
 
 
