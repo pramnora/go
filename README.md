@@ -5,7 +5,7 @@ Go programming code
 
 ## Example codes  
 
-### Program: Example 1: Print text: Hello, world!
+### Program: Example 1: Print string literal: Hello, world!
 
 >>package main  
 >>import "fmt"  
@@ -13,7 +13,7 @@ Go programming code
 >> fmt.Println("Hello, world!")  
 >>}  
 
-### Program: Example 2: Print sums: 1+1
+### Program: Example 2: Print maths literal: 1+1
 
 >>package main  
 >>import "fmt"  
@@ -21,6 +21,13 @@ Go programming code
 >> fmt.Println(1+1)    
 >>}  
 
+### Program: Example 3: Combining string literal/and, maths literal...using the comma as a separator: (,)
+
+>>package main  
+>>import "fmt"  
+>>main(){  
+>> fmt.Println("1 + 1 = ",1+1)    
+>>}  
 
 -----
 
