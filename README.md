@@ -5,7 +5,7 @@ Go programming code
 
 ## Example codes  
 
-### Program: Example 1: Hello, world!
+### Program: Example 1: Print text: Hello, world!
 
 >>package main  
 >>import "fmt"  
@@ -13,7 +13,7 @@ Go programming code
 >> fmt.Println("Hello, world!")  
 >>}  
 
-### Program: Example 2: Hello, world!
+### Program: Example 2: Print sums: 1+1
 
 >>package main  
 >>import "fmt"  
