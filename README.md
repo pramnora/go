@@ -44,6 +44,24 @@ Go programs can also be set up to run inside of the following IDE's:
 
 -----
 
+### NOTES  
+
+First, let me state I'm a not an 'expert' in regards to the Go programming language; therefore, my comments are purely the observations of a complete and total 'amateur'.
+
+However, I've heard it said that Go was invented by the people at Google; and, combines elements of...
+
+- C  
+- Java    
+- Python    
+
+In particular,  
+
+- it's simpler than C/Java...in that there are no semi-colons used at the end of line endings    
+- and, there is less use of brackets    
+- etc.  
+
+-----
+
 ## Example codes  
 
 ### Program: Example 1: Print string literal: Hello, world!
