@@ -8,7 +8,9 @@ Go programming code
 ### Program: Example 1: Print string literal: Hello, world!
 
 >>package main  
+>>
 >>import "fmt"  
+>>
 >>func main(){  
 >> fmt.Println("Hello, world!")  
 >>}  
@@ -16,7 +18,9 @@ Go programming code
 ### Program: Example 2: Print maths literal: 1+1
 
 >>package main  
+>>
 >>import "fmt"  
+>>
 >>func main(){  
 >> fmt.Println(1+1)    
 >>}  
@@ -24,7 +28,9 @@ Go programming code
 ### Program: Example 3: Combining string literal/and, maths literal...using the comma as a separator: (,)
 
 >>package main  
+>>
 >>import "fmt"  
+>>
 >>func main(){  
 >> fmt.Println("1 + 1 = ",1+1)    
 >>}  
