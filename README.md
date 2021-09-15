@@ -1,5 +1,5 @@
 # go
-Go programming code
+My own Go programming language codes repository
 
 -----
 
