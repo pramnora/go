@@ -3,6 +3,27 @@ My own Go programming language codes repository
 
 -----
 
+## Setting up Go programming language to work on Windows 10...
+
+1> Go to:   
+https://www.golang.org  
+...where you can download the Go programming language.
+
+Then, download the [.msi] file...; repeatedly clicking [Next] button should set it up to work on Windows 10...accepting all of the default setting options.
+
+Next, open up a DOS prompt...and, type in...  
+C:\>go [ENTER]  
+...and, a list of Go commands should come back.  
+
+You can also try doing...    
+C:\>go version  
+go version go1.17.1 windows/amd46  
+
+
+
+
+-----
+
 ## Example codes  
 
 ### Program: Example 1: Print string literal: Hello, world!
@@ -46,13 +67,6 @@ My own Go programming language codes repository
 >>	 fmt.Println(x," X ",12," =",x*12)  
 >>	}  
 >>}  
-
-
------
-
-## Setting up Go programming language to work on Windows 10...
-
-
 
 -----
 
