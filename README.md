@@ -7,11 +7,12 @@ Go programming code
 
 ### Program: Example 1: Hello, world!
 
->>package main
->>import "fmt"
->>main(){
->> fmt.Println("Hello, world!")
->>}
+>>package main  
+>>import "fmt"  
+>>main(){  
+>> fmt.Println("Hello, world!")  
+>>}  
+
 
 -----
 
