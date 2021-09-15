@@ -79,6 +79,15 @@ C:\go run filename.go
 >>	}  
 >>}  
 
+### Go programming language IDE's/Integrated Development Environment editor programs  
+
+As well as using 'Windows Notepad' to write your Go programs in...which is *not* a proper programming language editor;  
+Go programs can also be set up to run inside of the following IDE's:  
+
+- Visual Studio Code  
+- Eclipse   
+- etc.  
+
 -----
 
 ## Links...
