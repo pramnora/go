@@ -11,6 +11,8 @@ https://www.golang.org
 
 Then, download the appropriate [.msi] file...; then, after the file has downloaded...left double click on it to run...; repeatedly, clicking [Next] button should set it up to work on Windows 10...accepting all of the default setting options.
 
+### Test set up has, actually, worked...
+
 Next, open up a DOS prompt...and, type in...  
 C:\>go [ENTER]  
 ...and, a list of Go commands should, automatically, be returned.  
@@ -19,8 +21,15 @@ You can also try doing...
 C:\>go version  
 go version go1.17.1 windows/amd46  
 
+### How to run [.go] programs you've written...
 
+In order to run Go programs you've written yourself...  
 
+Save the program files using filename extension: [.go];   
+next, open up a DOS command prompt window, and, type...    
+
+C:\go run filename.go  
+...then, you should be able to observe the programs output.   
 
 -----
 
