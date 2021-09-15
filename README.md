@@ -29,6 +29,19 @@ Go programming code
 >> fmt.Println("1 + 1 = ",1+1)    
 >>}  
 
+### Program: Example 4: Print out the 12 x Tables...
+
+>>package main  
+
+>>import "fmt"   
+
+>>func main() {  
+>>	for x:=1;x<13;x++{  
+>>	 fmt.Println(x," X ",12," =",x*12)  
+>>	}  
+>>}  
+
+
 -----
 
 ## Links...
