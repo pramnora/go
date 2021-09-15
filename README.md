@@ -57,7 +57,7 @@ However, I've heard it said that Go was invented by the people at Google; and, c
 In particular,  
 
 - it's simpler than C/Java...in that there are no semi-colons used at the end of line endings    
-- and, there is less use of brackets    
+- and, there is no use of brackets inside of for statements     
 - etc.  
 
 -----
