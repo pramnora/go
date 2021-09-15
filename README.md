@@ -9,7 +9,7 @@ Go programming code
 
 >>package main  
 >>import "fmt"  
->>main(){  
+>>func main(){  
 >> fmt.Println("Hello, world!")  
 >>}  
 
@@ -17,7 +17,7 @@ Go programming code
 
 >>package main  
 >>import "fmt"  
->>main(){  
+>>func main(){  
 >> fmt.Println(1+1)    
 >>}  
 
@@ -25,7 +25,7 @@ Go programming code
 
 >>package main  
 >>import "fmt"  
->>main(){  
+>>func main(){  
 >> fmt.Println("1 + 1 = ",1+1)    
 >>}  
 
