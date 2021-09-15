@@ -33,6 +33,15 @@ next, open up a DOS command prompt window, and, type...
 C:\go run filename.go  
 ...then, you should be able to observe the programs output.   
 
+### Go programming language IDE's/Integrated Development Environment editor programs  
+
+As well as using 'Windows Notepad' to write your Go programs in...which is *not* a proper programming language editor;  
+Go programs can also be set up to run inside of the following IDE's:  
+
+- Visual Studio Code  
+- Eclipse   
+- etc.  
+
 -----
 
 ## Example codes  
@@ -78,15 +87,6 @@ C:\go run filename.go
 >>	 fmt.Println(x," X ",12," =",x*12)  
 >>	}  
 >>}  
-
-### Go programming language IDE's/Integrated Development Environment editor programs  
-
-As well as using 'Windows Notepad' to write your Go programs in...which is *not* a proper programming language editor;  
-Go programs can also be set up to run inside of the following IDE's:  
-
-- Visual Studio Code  
-- Eclipse   
-- etc.  
 
 -----
 
