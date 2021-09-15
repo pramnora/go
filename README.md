@@ -50,6 +50,12 @@ My own Go programming language codes repository
 
 -----
 
+## Setting up Go programming language to work on Windows 10...
+
+
+
+-----
+
 ## Links...
 
 Official site...  
@@ -57,3 +63,13 @@ https://www.golang.org
 
 Do Go programming online...  
 http://play.golang.org/
+
+-----
+
+## Videos...  
+
+### YouTube  
+
+
+
+
