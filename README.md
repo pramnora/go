@@ -9,11 +9,11 @@ My own Go programming language codes repository
 https://www.golang.org  
 ...where you can download the Go programming language.
 
-Then, download the [.msi] file...; repeatedly clicking [Next] button should set it up to work on Windows 10...accepting all of the default setting options.
+Then, download the appropriate [.msi] file...; then, after the file has downloaded...left double click on it to run...; repeatedly, clicking [Next] button should set it up to work on Windows 10...accepting all of the default setting options.
 
 Next, open up a DOS prompt...and, type in...  
 C:\>go [ENTER]  
-...and, a list of Go commands should come back.  
+...and, a list of Go commands should, automatically, be returned.  
 
 You can also try doing...    
 C:\>go version  
