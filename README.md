@@ -187,7 +187,11 @@ The One BIG Reason to Learn Google's Go Language
 The Real Reason why Go is not so Popular  
 - https://www.youtube.com/watch?v=2g0MxYf6FEM
 
+Go vs Rust: Which To Learn In 2024?   
+- https://www.youtube.com/watch?v=LjIe4w_-vzk
+
 - 
+ 
 
 
 
