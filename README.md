@@ -175,8 +175,19 @@ Why I Barely Use Go Anymore...
 This Go package was archived. What do we do now?   
 - https://www.youtube.com/watch?v=j584uJhWWhE  
 
+Why are Companies Migrating from Java to Go? (GoLang Dojo)  
+- https://www.youtube.com/watch?v=dfyaTa0bSNE
+  
+Why are Companies Migrating from Javascript to Go!?   
+- https://www.youtube.com/watch?v=45w7bgOXC3c  
 
+The One BIG Reason to Learn Google's Go Language  
+- https://www.youtube.com/watch?v=rQQcIGqp0OU
 
+The Real Reason why Go is not so Popular  
+- https://www.youtube.com/watch?v=2g0MxYf6FEM
+
+- 
 
 
 
