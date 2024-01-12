@@ -163,12 +163,17 @@ How to build a Golang Backend in 5 minutes
 GoLang: 10+ UNIQUE Concepts/Conventions that Beginners Should Know About!  
 - https://www.youtube.com/watch?v=CK5rLpZk5A8
 
+7 Deadly Mistakes Beginner Go Developers Make (and how to fix them)  
+- https://www.youtube.com/watch?v=biGr232TBwc  
+
 This Is The BEST Way To Structure Your GO Projects  
 - https://www.youtube.com/watch?v=dxPakeBsgl4  
  
 Why I Barely Use Go Anymore...  
 - https://www.youtube.com/watch?v=tQrOfj57U-4  
 
+This Go package was archived. What do we do now?   
+- https://www.youtube.com/watch?v=j584uJhWWhE  
 
 
 
