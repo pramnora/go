@@ -151,7 +151,23 @@ https://www.youtube.com/watch?v=ty49_v1tV44
 The Go Language: What Makes it Different? - Jay McGavren  
 https://www.youtube.com/watch?v=FEFXjRoac_U  
 
+Learn GO Fast: Full Tutorial  
+- https://www.youtube.com/watch?v=8uiZC0l4Ajw  
 
+How I Would Re-Learn Go, Advice after 1 Year and 1 Production App    
+- https://www.youtube.com/watch?v=OqdBixi_y1s
+
+How to build a Golang Backend in 5 minutes  
+- https://www.youtube.com/watch?v=IwplIbwJtD0     
+
+GoLang: 10+ UNIQUE Concepts/Conventions that Beginners Should Know About!  
+- https://www.youtube.com/watch?v=CK5rLpZk5A8
+
+This Is The BEST Way To Structure Your GO Projects  
+- https://www.youtube.com/watch?v=dxPakeBsgl4  
+ 
+Why I Barely Use Go Anymore...  
+- https://www.youtube.com/watch?v=tQrOfj57U-4  
 
 
 
