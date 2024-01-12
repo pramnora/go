@@ -1,5 +1,7 @@
 # go
-My own Go programming language codes repository
+My own Go programming language codes repository  
+
+Document last updated: *Fri 12 Jan 2024 18:48 PM GMT*  
 
 -----
 
@@ -120,6 +122,10 @@ http://play.golang.org/
 
 https://github.com/GoesToEleven/GolangTraining/blob/master/01_getting-started/01_helloWorld/main.go  
 
+## Tutorials...  
+
+W3Schools Tutorial  
+- https://www.w3schools.com/go/index.php  
 
 -----
 
