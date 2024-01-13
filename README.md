@@ -66,9 +66,9 @@ In particular,
 
 ## Example codes  
 
->>// single line comment
->>
->>
+>>// single line comment  
+>>/* multi-line comment  
+>>block */  
 
 ### Program: Example 1: Print string literal: Hello, world!
 
