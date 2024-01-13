@@ -66,6 +66,10 @@ In particular,
 
 ## Example codes  
 
+>>// single line comment
+>>
+>>
+
 ### Program: Example 1: Print string literal: Hello, world!
 
 >>package main  
