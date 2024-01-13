@@ -127,6 +127,9 @@ https://github.com/GoesToEleven/GolangTraining/blob/master/01_getting-started/01
 W3Schools Tutorial  
 - https://www.w3schools.com/go/index.php  
 
+GoLangDojo.com/Cheatsheet [.pdf]  
+- https://github.com/thegolangdojo/cheatsheet/blob/main/cheatsheet.pdf  
+
 -----
 
 ## Videos...  
