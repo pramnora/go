@@ -70,9 +70,12 @@ In particular,
 
 ## Example codes  
 
+### How to use Go comments...  
+
 >>// single line comment
 
->>/* multi-line comment  
+>>/* multi-line  
+>> comment    
 >>block */  
 
 ### Program: Example 1: Print string literal: Hello, world!
