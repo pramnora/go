@@ -15,6 +15,10 @@ https://www.golang.org
 
 Then, download the appropriate [.msi] file...; then, after the file has downloaded...left double click on it to run...; repeatedly, clicking [Next] button should set it up to work on Windows 10...accepting all of the default setting options.
 
+## Set up Go programming language to work on Linux Mint...
+
+> apt install golang   
+
 ### How to test if set up has, actually, worked...
 
 Next, open up a DOS prompt...and, type in...  
