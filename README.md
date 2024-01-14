@@ -70,7 +70,8 @@ In particular,
 
 ## Example codes  
 
->>// single line comment  
+>>// single line comment
+
 >>/* multi-line comment  
 >>block */  
 
